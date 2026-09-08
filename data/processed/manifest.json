@@ -1,0 +1,535 @@
+{
+  "generated_at": "2026-09-08T13:12:07-0500",
+  "source": "https://www.inegi.org.mx/programas/edr/#datos_abiertos",
+  "years_requested": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "formats": [
+    "parquet"
+  ],
+  "archives": [
+    {
+      "key": "2005_2009",
+      "url": "https://www.inegi.org.mx/contenidos/programas/edr/microdatos/defunciones/datos/defunciones_generales_base_datos_2005_2009_dbf.zip",
+      "file": "defunciones_generales_base_datos_2005_2009_dbf.zip",
+      "bytes": 72856934,
+      "sha256": "77897f85d145c14602f1bb3f5be6f9129da22861213798a1dc12239783280832",
+      "covers_years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    {
+      "key": "2010_2014",
+      "url": "https://www.inegi.org.mx/contenidos/programas/edr/microdatos/defunciones/datos/defunciones_generales_base_datos_2010_2014_dbf.zip",
+      "file": "defunciones_generales_base_datos_2010_2014_dbf.zip",
+      "bytes": 94456752,
+      "sha256": "86b00975dab6a2b0f346b9339ab132469cdea5a51675244b4a9c2bf506a6fc94",
+      "covers_years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "key": "2015_2019",
+      "url": "https://www.inegi.org.mx/contenidos/programas/edr/microdatos/defunciones/datos/defunciones_generales_base_datos_2015_2019_dbf.zip",
+      "file": "defunciones_generales_base_datos_2015_2019_dbf.zip",
+      "bytes": 116617815,
+      "sha256": "668166d7a31c3228c518e39c9247616adcd8426416059de7f39aeb905d35b4b6",
+      "covers_years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "2020",
+      "url": "https://www.inegi.org.mx/contenidos/programas/edr/microdatos/defunciones/2020/defunciones_base_datos_2020_dbf.zip",
+      "file": "defunciones_base_datos_2020_dbf.zip",
+      "bytes": 32344612,
+      "sha256": "4a6e930a4034fd829b567ea321ab42790d712e55b7afad936b5eb69a7c85cf6b",
+      "covers_years": [
+        2020
+      ]
+    },
+    {
+      "key": "2021",
+      "url": "https://www.inegi.org.mx/contenidos/programas/edr/microdatos/defunciones/2021/defunciones_base_datos_2021_dbf.zip",
+      "file": "defunciones_base_datos_2021_dbf.zip",
+      "bytes": 31035888,
+      "sha256": "877585d6fdadc81365ebb254d30e21841aa05945756fc9eea41add3b0b57c182",
+      "covers_years": [
+        2021
+      ]
+    },
+    {
+      "key": "2022",
+      "url": "https://www.inegi.org.mx/contenidos/programas/edr/microdatos/defunciones/2022/defunciones_base_datos_2022_dbf.zip",
+      "file": "defunciones_base_datos_2022_dbf.zip",
+      "bytes": 25864505,
+      "sha256": "0a82398a697b0d9108e6bc46be637b85ffd1af38b1cb063e3ee69a68b1be08aa",
+      "covers_years": [
+        2022
+      ]
+    },
+    {
+      "key": "2023",
+      "url": "https://www.inegi.org.mx/contenidos/programas/edr/microdatos/defunciones/2023/defunciones_base_datos_2023_dbf.zip",
+      "file": "defunciones_base_datos_2023_dbf.zip",
+      "bytes": 28755241,
+      "sha256": "93a9b88bf40f07c9fa6e698d55abe97e6ad5f32e1823dc3475259b09bb14655f",
+      "covers_years": [
+        2023
+      ]
+    },
+    {
+      "key": "2024",
+      "url": "https://www.inegi.org.mx/contenidos/programas/edr/microdatos/defunciones/2024/defunciones_base_datos_2024_dbf.zip",
+      "file": "defunciones_base_datos_2024_dbf.zip",
+      "bytes": 28238311,
+      "sha256": "a8acb8f0f5aab9d06bf50e55db0f1c2de3e3c32597e0f0aa7c62d0530c17ee3b",
+      "covers_years": [
+        2024
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "year": 2005,
+      "source_dbf": "DEFUN05.dbf",
+      "rows": 495240,
+      "outputs": [
+        "processed/defunciones_registradas_2005.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2005/capgpo.parquet",
+        "processed/catalogos/2005/catemlde05.parquet",
+        "processed/catalogos/2005/catminde.parquet",
+        "processed/catalogos/2005/gpolimex.parquet",
+        "processed/catalogos/2005/lista1.parquet",
+        "processed/catalogos/2005/listamex.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2005_2009/defunciones_base_datos_2005_dbf/descripcion_bd_defunciones_2005.pdf"
+      ]
+    },
+    {
+      "year": 2006,
+      "source_dbf": "DEFUN06.dbf",
+      "rows": 494471,
+      "outputs": [
+        "processed/defunciones_registradas_2006.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2006/capgpo.parquet",
+        "processed/catalogos/2006/catemlde06.parquet",
+        "processed/catalogos/2006/catminde.parquet",
+        "processed/catalogos/2006/gpolimex.parquet",
+        "processed/catalogos/2006/lista1.parquet",
+        "processed/catalogos/2006/listamex.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2005_2009/defunciones_base_datos_2006_dbf/descripcion_bd_defunciones_2006.pdf"
+      ]
+    },
+    {
+      "year": 2007,
+      "source_dbf": "DEFUN07.dbf",
+      "rows": 514420,
+      "outputs": [
+        "processed/defunciones_registradas_2007.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2007/capgpo.parquet",
+        "processed/catalogos/2007/catemlde07.parquet",
+        "processed/catalogos/2007/catminde.parquet",
+        "processed/catalogos/2007/gpolimex.parquet",
+        "processed/catalogos/2007/lista1.parquet",
+        "processed/catalogos/2007/listamex.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2005_2009/defunciones_base_datos_2007_dbf/descripcion_bd_defunciones_2007.pdf"
+      ]
+    },
+    {
+      "year": 2008,
+      "source_dbf": "DEFUN08.dbf",
+      "rows": 539530,
+      "outputs": [
+        "processed/defunciones_registradas_2008.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2008/capgpo.parquet",
+        "processed/catalogos/2008/catemlde08.parquet",
+        "processed/catalogos/2008/catminde.parquet",
+        "processed/catalogos/2008/gpolimex.parquet",
+        "processed/catalogos/2008/lista1.parquet",
+        "processed/catalogos/2008/listamex.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2005_2009/defunciones_base_datos_2008_dbf/descripcion_bd_defunciones_2008.pdf"
+      ]
+    },
+    {
+      "year": 2009,
+      "source_dbf": "DEFUN09.dbf",
+      "rows": 564673,
+      "outputs": [
+        "processed/defunciones_registradas_2009.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2009/capgpo.parquet",
+        "processed/catalogos/2009/catemlde09.parquet",
+        "processed/catalogos/2009/catminde.parquet",
+        "processed/catalogos/2009/gpolimex.parquet",
+        "processed/catalogos/2009/lista1.parquet",
+        "processed/catalogos/2009/listamex.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2005_2009/defunciones_base_datos_2009_dbf/descripcion_bd_defunciones_2009.pdf"
+      ]
+    },
+    {
+      "year": 2010,
+      "source_dbf": "DEFUN10.dbf",
+      "rows": 592018,
+      "outputs": [
+        "processed/defunciones_registradas_2010.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2010/capgpo.parquet",
+        "processed/catalogos/2010/catemlde10.parquet",
+        "processed/catalogos/2010/catminde.parquet",
+        "processed/catalogos/2010/gpolimex.parquet",
+        "processed/catalogos/2010/lista1.parquet",
+        "processed/catalogos/2010/listamex.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2010_2014/defunciones_base_datos_2010_dbf/descripcion_bd_defunciones_2010.pdf"
+      ]
+    },
+    {
+      "year": 2011,
+      "source_dbf": "DEFUN11.dbf",
+      "rows": 590693,
+      "outputs": [
+        "processed/defunciones_registradas_2011.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2011/capgpo.parquet",
+        "processed/catalogos/2011/catemlde11.parquet",
+        "processed/catalogos/2011/catminde.parquet",
+        "processed/catalogos/2011/gpolimex.parquet",
+        "processed/catalogos/2011/lista1.parquet",
+        "processed/catalogos/2011/listamex.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2010_2014/defunciones_base_datos_2011_dbf/descripcion_bd_defunciones_2011.pdf"
+      ]
+    },
+    {
+      "year": 2012,
+      "source_dbf": "DEFUN12.dbf",
+      "rows": 602354,
+      "outputs": [
+        "processed/defunciones_registradas_2012.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2012/capgpo.parquet",
+        "processed/catalogos/2012/catemlde12.parquet",
+        "processed/catalogos/2012/catminde.parquet",
+        "processed/catalogos/2012/gpolimex.parquet",
+        "processed/catalogos/2012/lista1.parquet",
+        "processed/catalogos/2012/listamex.parquet",
+        "processed/catalogos/2012/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2010_2014/defunciones_base_datos_2012_dbf/descripcion_bd_defunciones_2012.pdf"
+      ]
+    },
+    {
+      "year": 2013,
+      "source_dbf": "DEFUN13.DBF",
+      "rows": 623599,
+      "outputs": [
+        "processed/defunciones_registradas_2013.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2013/capgpo.parquet",
+        "processed/catalogos/2013/catemlde13.parquet",
+        "processed/catalogos/2013/catminde.parquet",
+        "processed/catalogos/2013/gpolimex.parquet",
+        "processed/catalogos/2013/lista1.parquet",
+        "processed/catalogos/2013/listamex.parquet",
+        "processed/catalogos/2013/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2010_2014/defunciones_base_datos_2013_dbf/descripcion_bd_defunciones_2013.pdf"
+      ]
+    },
+    {
+      "year": 2014,
+      "source_dbf": "DEFUN14.dbf",
+      "rows": 633641,
+      "outputs": [
+        "processed/defunciones_registradas_2014.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2014/capgpo.parquet",
+        "processed/catalogos/2014/catemlde14.parquet",
+        "processed/catalogos/2014/catminde.parquet",
+        "processed/catalogos/2014/gpolimex.parquet",
+        "processed/catalogos/2014/lista1.parquet",
+        "processed/catalogos/2014/listamex.parquet",
+        "processed/catalogos/2014/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2010_2014/defunciones_base_datos_2014_dbf/descripcion_bd_defunciones_2014.pdf",
+        "interim/defunciones_generales_base_datos_2010_2014/defunciones_base_datos_2014_dbf/nota_bases_datos_edr_2014.txt"
+      ]
+    },
+    {
+      "year": 2015,
+      "source_dbf": "DEFUN15.DBF",
+      "rows": 655688,
+      "outputs": [
+        "processed/defunciones_registradas_2015.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2015/capgpo.parquet",
+        "processed/catalogos/2015/catemlde15.parquet",
+        "processed/catalogos/2015/catminde.parquet",
+        "processed/catalogos/2015/gpolimex.parquet",
+        "processed/catalogos/2015/lista1.parquet",
+        "processed/catalogos/2015/listamex.parquet",
+        "processed/catalogos/2015/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2015_2019/defunciones_base_datos_2015/Descripcion BD_Defunciones 2015_LOC_.pdf"
+      ]
+    },
+    {
+      "year": 2016,
+      "source_dbf": "DEFUN16.dbf",
+      "rows": 685766,
+      "outputs": [
+        "processed/defunciones_registradas_2016.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2016/capgpo.parquet",
+        "processed/catalogos/2016/catemlde16.parquet",
+        "processed/catalogos/2016/catminde.parquet",
+        "processed/catalogos/2016/gpolimex.parquet",
+        "processed/catalogos/2016/lista1.parquet",
+        "processed/catalogos/2016/listamex.parquet",
+        "processed/catalogos/2016/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2015_2019/defunciones_base_datos_2016/Descripcion BD_Defunciones 2016(LOC).pdf",
+        "interim/defunciones_generales_base_datos_2015_2019/defunciones_base_datos_2016/nota_bases_datos_edr_2016.txt"
+      ]
+    },
+    {
+      "year": 2017,
+      "source_dbf": "DEFUN17.dbf",
+      "rows": 703047,
+      "outputs": [
+        "processed/defunciones_registradas_2017.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2017/capgpo.parquet",
+        "processed/catalogos/2017/catemlde17.parquet",
+        "processed/catalogos/2017/catminde.parquet",
+        "processed/catalogos/2017/gpolimex.parquet",
+        "processed/catalogos/2017/lista1.parquet",
+        "processed/catalogos/2017/listamex.parquet",
+        "processed/catalogos/2017/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2015_2019/defunciones_base_datos_2017/Descripcion BD_Defunciones 2017(LOC).pdf"
+      ]
+    },
+    {
+      "year": 2018,
+      "source_dbf": "DEFUN18.DBF",
+      "rows": 722611,
+      "outputs": [
+        "processed/defunciones_registradas_2018.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2018/capgpo.parquet",
+        "processed/catalogos/2018/catemlde18.parquet",
+        "processed/catalogos/2018/catminde.parquet",
+        "processed/catalogos/2018/gpolimex.parquet",
+        "processed/catalogos/2018/lista1.parquet",
+        "processed/catalogos/2018/listamex.parquet",
+        "processed/catalogos/2018/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2015_2019/defunciones_base_datos_2018/Descripcion BD_Defunciones 2018.pdf"
+      ]
+    },
+    {
+      "year": 2019,
+      "source_dbf": "DEFUN19.DBF",
+      "rows": 747784,
+      "outputs": [
+        "processed/defunciones_registradas_2019.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2019/capgpo.parquet",
+        "processed/catalogos/2019/catemlde19.parquet",
+        "processed/catalogos/2019/catminde.parquet",
+        "processed/catalogos/2019/gpolimex.parquet",
+        "processed/catalogos/2019/lista1.parquet",
+        "processed/catalogos/2019/listamex.parquet",
+        "processed/catalogos/2019/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_generales_base_datos_2015_2019/defunciones_base_datos_2019/Descripcion BD_Defunciones 2019.pdf",
+        "interim/defunciones_generales_base_datos_2015_2019/defunciones_base_datos_2019/nota_bases_datos_edr_2019.txt"
+      ]
+    },
+    {
+      "year": 2020,
+      "source_dbf": "defun20.dbf",
+      "rows": 1086743,
+      "outputs": [
+        "processed/defunciones_registradas_2020.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2020/capgpo.parquet",
+        "processed/catalogos/2020/catemlde20.parquet",
+        "processed/catalogos/2020/catminde.parquet",
+        "processed/catalogos/2020/gpolimex.parquet",
+        "processed/catalogos/2020/lista1.parquet",
+        "processed/catalogos/2020/listamex.parquet",
+        "processed/catalogos/2020/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_base_datos_2020/Descripcion_BD_Defunciones_2020.pdf",
+        "interim/defunciones_base_datos_2020/nota_bases_datos_defunciones_registradas_2020.txt"
+      ]
+    },
+    {
+      "year": 2021,
+      "source_dbf": "defun21.dbf",
+      "rows": 1122249,
+      "outputs": [
+        "processed/defunciones_registradas_2021.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2021/capgpo.parquet",
+        "processed/catalogos/2021/catemlde21.parquet",
+        "processed/catalogos/2021/catminde.parquet",
+        "processed/catalogos/2021/gpolimex.parquet",
+        "processed/catalogos/2021/lista1.parquet",
+        "processed/catalogos/2021/listamex.parquet",
+        "processed/catalogos/2021/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_base_datos_2021/Descripcion_BD_Defunciones_2021.pdf"
+      ]
+    },
+    {
+      "year": 2022,
+      "source_dbf": "DEFUN22.dbf",
+      "rows": 847716,
+      "outputs": [
+        "processed/defunciones_registradas_2022.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2022/capgpo.parquet",
+        "processed/catalogos/2022/catemlde22.parquet",
+        "processed/catalogos/2022/catminde.parquet",
+        "processed/catalogos/2022/cod_adicio.parquet",
+        "processed/catalogos/2022/gpolimex.parquet",
+        "processed/catalogos/2022/lenguas.parquet",
+        "processed/catalogos/2022/lista1.parquet",
+        "processed/catalogos/2022/listamex.parquet",
+        "processed/catalogos/2022/ocupaciones.parquet",
+        "processed/catalogos/2022/paises.parquet",
+        "processed/catalogos/2022/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_base_datos_2022/Descripcion_BD_Defunciones_2022.pdf",
+        "interim/defunciones_base_datos_2022/nota_base_datos_defunciones_registradas_2022.txt"
+      ]
+    },
+    {
+      "year": 2023,
+      "source_dbf": "DEFUN23.dbf",
+      "rows": 799869,
+      "outputs": [
+        "processed/defunciones_registradas_2023.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2023/capgpo.parquet",
+        "processed/catalogos/2023/catemlde23.parquet",
+        "processed/catalogos/2023/catminde.parquet",
+        "processed/catalogos/2023/cod_adicio.parquet",
+        "processed/catalogos/2023/gpolimex.parquet",
+        "processed/catalogos/2023/lenguas.parquet",
+        "processed/catalogos/2023/lista1.parquet",
+        "processed/catalogos/2023/listamex.parquet",
+        "processed/catalogos/2023/ocupaciones.parquet",
+        "processed/catalogos/2023/paises.parquet",
+        "processed/catalogos/2023/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_base_datos_2023/Descripcion_BD_Defunciones_2023.pdf"
+      ]
+    },
+    {
+      "year": 2024,
+      "source_dbf": "DEFUN24.dbf",
+      "rows": 819672,
+      "outputs": [
+        "processed/defunciones_registradas_2024.parquet"
+      ],
+      "catalogs": [
+        "processed/catalogos/2024/capgpo.parquet",
+        "processed/catalogos/2024/catemlde24.parquet",
+        "processed/catalogos/2024/catminde.parquet",
+        "processed/catalogos/2024/cod_adicio.parquet",
+        "processed/catalogos/2024/gpolimex.parquet",
+        "processed/catalogos/2024/lenguas.parquet",
+        "processed/catalogos/2024/lista1.parquet",
+        "processed/catalogos/2024/listamex.parquet",
+        "processed/catalogos/2024/ocupaciones.parquet",
+        "processed/catalogos/2024/paises.parquet",
+        "processed/catalogos/2024/parentesco.parquet"
+      ],
+      "descriptors": [
+        "interim/defunciones_base_datos_2024/Descripcion_BD_Defunciones_2024.pdf"
+      ]
+    }
+  ]
+}

@@ -1,10 +1,13 @@
 # data artifacts
-/data/
+# raw zips and extracted DBFs stay out of git; processed parquet is committed for analysis
+/data/raw/
+/data/interim/
 *.zip
 *.zip.part
 *.dbf
 *.DBF
 *.parquet
+!/data/processed/**/*.parquet
 
 # python
 __pycache__/
