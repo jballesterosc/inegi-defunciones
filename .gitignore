@@ -1,0 +1,23 @@
+# data artifacts
+/data/
+*.zip
+*.zip.part
+*.dbf
+*.DBF
+*.parquet
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+
+# editors / os
+.DS_Store
+.idea/
+.vscode/
