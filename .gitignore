@@ -9,6 +9,9 @@
 *.parquet
 !/data/processed/**/*.parquet
 
+# large raw source CSV — the derived poblacion_entidades.parquet is committed instead
+/data/processed/poblacion_entidades.csv
+
 # python
 __pycache__/
 *.py[cod]

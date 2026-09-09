@@ -1,0 +1,31 @@
+edad_agru,edad_agru_desc,conapo_edades,estatus,nota
+01,Menores de un año,0,OK,
+02,De un año,1,OK,
+03,De 2 años,2,OK,
+04,De 3 años,3,OK,
+05,De 4 años,4,OK,
+06,De 5 a 9 años,5-9,OK,
+07,De 10 a 14 años,10-14,OK,
+08,De 15 a 19 años,15-19,OK,
+09,De 20 a 24 años,20-24,OK,
+10,De 25 a 29 años,25-29,OK,
+11,De 30 a 34 años,30-34,OK,
+12,De 35 a 39 años,35-39,OK,
+13,De 40 a 44 años,40-44,OK,
+14,De 45 a 49 años,45-49,OK,
+15,De 50 a 54 años,50-54,OK,
+16,De 55 a 59 años,55-59,OK,
+17,De 60 a 64 años,60-64,OK,
+18,De 65 a 69 años,65-69,OK,
+19,De 70 a 74 años,70-74,OK,
+20,De 75 a 79 años,75-79,OK,
+21,De 80 a 84 años,80-84,OK,
+22,De 85 a 89 años,85-89,OK,
+23,De 90 a 94 años,90-94,OK,
+24,De 95 a 99 años,95-99,OK,
+25,De 100 a 104 años,100-104,OK,
+26,De 105 a 109 años,105-109,OK,
+27,De 110 a 114 años,,SIN MAPEO,CONAPO llega solo a 109 anios; sin poblacion para 110+.
+28,De 115 a 119 años,,SIN MAPEO,CONAPO llega solo a 109 anios; sin poblacion para 110+.
+29,De 120 y más años,,SIN MAPEO,CONAPO llega solo a 109 anios; sin poblacion para 110+.
+30,No especificada,,SIN MAPEO,Edad no especificada: no hay denominador.

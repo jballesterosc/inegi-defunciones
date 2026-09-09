@@ -1,0 +1,326 @@
+lista_mex,label_2005,label_2019,prefijo,deaths_2005,deaths_2019,crude_2005,crude_2019,crude_change,crude_pct_change,std_2005,std_2019,std_change,std_pct_change,direction_crude,direction_std,flags
+28A,Infarto agudo del miocardio,Infarto agudo del miocardio,28,45008,105046,42.3123,82.5732,40.2609,95.15,46.3619,64.5633,18.2014,39.26,up,up,
+55,Agresiones (homicidios),Agresiones (homicidios),55,10003,36510,9.4039,28.6993,19.2954,205.19,9.4735,26.1574,16.6839,176.11,up,up,
+33B,Neumonía,Neumonía,33,13154,30243,12.3662,23.773,11.4069,92.24,13.1346,19.3946,6.2601,47.66,up,up,
+38I,Otras enfermedades del sistema urinario,Otras enfermedades del sistema urinario,38,1564,7136,1.4703,5.6094,4.139,281.51,1.6019,4.4794,2.8774,179.62,up,up,
+35O,Otras enfermedades de los intestinos y del peritoneo,Otras enfermedades de los intestinos y del peritoneo,35,3146,7602,2.9576,5.9757,3.0181,102.05,3.2267,4.9248,1.6981,52.63,up,up,
+56A,Eventos de intención no determinada,Eventos de intención no determinada,56,2953,6400,2.7761,5.0308,2.2547,81.22,2.7812,4.4165,1.6353,58.8,up,up,
+36A,Infecciones de la piel y del tejido subcutáneo,Infecciones de la piel y del tejido subcutáneo,36,6,2490,0.0056,1.9573,1.9517,34600.08,0.0059,1.596,1.5901,26874.3,up,up,LOW_BASE
+18,Tumores de comportamiento incierto o desconocido,Tumores de comportamiento incierto o desconocido,18,2713,6389,2.5505,5.0222,2.4717,96.91,2.7321,4.2009,1.4688,53.76,up,up,
+27Z,Las demás enfermedades hipertensivas,Las demás enfermedades hipertensivas,27,3673,8207,3.453,6.4512,2.9982,86.83,3.7746,5.2225,1.4479,38.36,up,up,
+35Z,Otras enfermedades del sistema digestivo,Otras enfermedades del sistema digestivo,35,3551,7791,3.3383,6.1242,2.7859,83.45,3.6355,4.9394,1.3039,35.87,up,up,
+54,Lesiones autoinfligidas intencionalmente,Lesiones autoinfligidas intencionalmente,54,4329,7212,4.0697,5.6691,1.5994,39.3,4.1562,5.4143,1.2581,30.27,up,up,
+09D,Tumor maligno del colon,Tumor maligno del colon,09,2749,5772,2.5844,4.5372,1.9528,75.56,2.8245,3.731,0.9065,32.09,up,up,
+38A,Síndrome nefrítico agudo y síndrome nefrítico rápidamente progresivo,Síndrome nefrítico agudo y síndrome nefrítico rápidamente progresivo,38,18,1289,0.0169,1.0132,0.9963,5887.74,0.0178,0.8301,0.8124,4576.04,up,up,LOW_BASE
+29B,Trastornos de la conducción y arritmias cardíacas,Trastornos de la conducción y arritmias cardíacas,29,1589,3979,1.4938,3.1278,1.6339,109.38,1.6418,2.4467,0.8048,49.02,up,up,
+27A,Enfermedad cardíaca hipertensiva,Enfermedad cardíaca hipertensiva,27,5168,9835,4.8585,7.731,2.8725,59.12,5.3597,6.0249,0.6653,12.41,up,up,
+20Z,Las demás enfermedades endocrinas y metabólicas,Las demás enfermedades endocrinas y metabólicas,20,2521,4822,2.37,3.7904,1.4204,59.93,2.5369,3.1346,0.5978,23.56,up,up,
+11D,Tumor maligno de la mama,Tumor maligno de la mama,11,4276,7548,4.0199,5.9332,1.9133,47.6,4.406,4.9576,0.5516,12.52,up,up,
+33C,Influenza,Influenza,33,21,750,0.0197,0.5896,0.5698,2886.24,0.0208,0.5244,0.5036,2417.06,up,up,LOW_BASE
+35I,Ileo paralítico y obstrucción intestinal sin hernia,Ileo paralítico y obstrucción intestinal sin hernia,35,1350,2822,1.2691,2.2183,0.9491,74.79,1.3723,1.8045,0.4322,31.5,up,up,
+22A,Demencia,Demencia,22,483,1562,0.4541,1.2278,0.7738,170.41,0.5033,0.9223,0.4191,83.27,up,up,
+47E,Malformaciones congénitas del sistema circulatorio,Malformaciones congénitas del sistema circulatorio,47,4462,4787,4.1948,3.7629,-0.4319,-10.3,3.9671,4.3763,0.4092,10.31,down,up,DIRECTION_FLIP
+37H,Trastornos de los tejidos blandos,Trastornos de los tejidos blandos,37,259,1020,0.2435,0.8018,0.5583,229.29,0.2651,0.6426,0.3775,142.43,up,up,
+12J,Otros tumores malignos de las vías  urinarias,Otros tumores malignos de las vías  urinarias,12,1548,3028,1.4553,2.3802,0.9249,63.56,1.5853,1.9569,0.3716,23.44,up,up,
+12D,Tumor maligno del ovario,Tumor maligno del ovario,12,1498,2886,1.4083,2.2686,0.8603,61.09,1.5386,1.8986,0.36,23.4,up,up,
+38D,Enfermedades renales tubulointersticiales,Enfermedades renales tubulointersticiales,38,540,1388,0.5077,1.0911,0.5834,114.92,0.5512,0.8879,0.3366,61.06,up,up,
+46G,Enfermedades infecciosas y parasitarias congénitas,Enfermedades infecciosas y parasitarias congénitas,46,2739,2823,2.575,2.2191,-0.3559,-13.82,2.4072,2.6988,0.2915,12.11,down,up,DIRECTION_FLIP
+23Z,Las demás enfermedades del sistema nervioso,Las demás enfermedades del sistema nervioso,23,2721,4291,2.558,3.373,0.815,31.86,2.6988,2.9311,0.2323,8.61,up,up,
+48F,Síndrome de la muerte súbita infantil,Síndrome de la muerte súbita infantil,48,260,478,0.2444,0.3757,0.1313,53.72,0.2286,0.4583,0.2297,100.48,up,up,
+12C,"Tumor maligno del cuerpo del útero y del útero, parte no especificada","Tumor maligno del cuerpo del útero y del útero, parte no especificada",12,626,1339,0.5885,1.0525,0.464,78.85,0.645,0.8706,0.2256,34.99,up,up,
+09E,"Tumor maligno de la unión rectosigmoidea, del recto, del ano y del conducto anal","Tumor maligno de la unión rectosigmoidea, del recto, del ano y del conducto anal",09,628,1334,0.5904,1.0486,0.4582,77.61,0.6429,0.8679,0.2251,35.01,up,up,
+06G,Fiebre del dengue hemorrágico,Fiebre del dengue hemorrágico,06,41,355,0.0385,0.2791,0.2405,623.98,0.04,0.2638,0.2238,559.68,up,up,LOW_BASE
+11A,Tumores malignos de los huesos y de los cartílagos articulares,Tumores malignos de los huesos y de los cartílagos articulares,11,544,1078,0.5114,0.8474,0.336,65.69,0.5405,0.7568,0.2163,40.03,up,up,
+47O,"Anomalías cromosómicas, no clasificadas en otra parte","Anomalías cromosómicas, no clasificadas en otra parte",47,460,733,0.4324,0.5762,0.1437,33.24,0.4133,0.6268,0.2136,51.68,up,up,
+37E,Trastornos sistémicos del tejido conjuntivo,Trastornos sistémicos del tejido conjuntivo,37,850,1478,0.7991,1.1618,0.3627,45.39,0.8337,1.0455,0.2118,25.4,up,up,
+33Z,Las demás enfermedades del aparato respiratorio,Las demás enfermedades del aparato respiratorio,33,4833,7788,4.5435,6.1219,1.5784,34.74,4.8828,5.0927,0.2099,4.3,up,up,
+30A,Hemorragia subaracnoidea,Hemorragia subaracnoidea,30,1544,2669,1.4515,2.098,0.6465,44.54,1.5649,1.765,0.2,12.78,up,up,
+35M,Otras enfermedades del hígado,Otras enfermedades del hígado,35,16502,26087,15.5136,20.5061,4.9925,32.18,16.8185,17.0166,0.1981,1.18,up,up,
+35J,Enfermedad diverticular del intestino,Enfermedad diverticular del intestino,35,399,950,0.3751,0.7468,0.3717,99.08,0.4127,0.5969,0.1842,44.64,up,up,
+21F,Secuelas de la desnutrición y otras deficiencias nutricionales,Secuelas de la desnutrición y otras deficiencias nutricionales,21,1,296,0.0009,0.2327,0.2317,24649.94,0.0009,0.1842,0.1834,21194.45,up,up,LOW_BASE
+20E,"Trastornos del metabolismo, de las lipoproteínas y otras lipidemias","Trastornos del metabolismo, de las lipoproteínas y otras lipidemias",20,715,1423,0.6722,1.1186,0.4464,66.41,0.7337,0.9099,0.1762,24.02,up,up,
+12G,Tumor maligno del testículo,Tumor maligno del testículo,12,360,698,0.3384,0.5487,0.2102,62.12,0.3456,0.5217,0.1761,50.95,up,up,
+35P,Pancreatitis aguda y otras enfermedades del páncreas,Pancreatitis aguda y otras enfermedades del páncreas,35,1417,2384,1.3321,1.874,0.5419,40.68,1.4256,1.5971,0.1714,12.02,up,up,
+33I,Otras enfermedades pulmonares debidas a agentes externos,Otras enfermedades pulmonares debidas a agentes externos,33,288,674,0.2708,0.5298,0.2591,95.68,0.289,0.4599,0.1709,59.12,up,up,
+27B,Hipertensión esencial,Hipertensión esencial,27,4068,7213,3.8244,5.6699,1.8455,48.26,4.2229,4.3872,0.1643,3.89,up,up,
+01G,Infecciones intestinales debidas a otros organismos especificados,Infecciones intestinales debidas a otros organismos especificados,01,118,405,0.1109,0.3184,0.2074,186.98,0.1107,0.273,0.1623,146.59,up,up,
+51E,Accidente causado por proyectil de arma de fuego,Accidente causado por proyectil de arma de fuego,51,276,571,0.2595,0.4488,0.1894,72.99,0.2602,0.4217,0.1615,62.08,up,up,
+23D,Enfermedad de Alzheimer,Enfermedad de Alzheimer,23,1089,2134,1.0238,1.6775,0.6537,63.85,1.1369,1.2889,0.152,13.37,up,up,
+19Z,"Las demás enfermedades de la sangre, órganos hematopoyéticos y trastornos de la inmunidad","Las demás enfermedades de la sangre, órganos hematopoyéticos y trastornos de la inmunidad",19,700,1138,0.6581,0.8945,0.2365,35.93,0.6851,0.806,0.1209,17.65,up,up,
+39F,Otras enfermedades de los órganos genitales masculinos,Otras enfermedades de los órganos genitales masculinos,39,130,383,0.1222,0.3011,0.1788,146.34,0.1329,0.2473,0.1144,86.09,up,up,
+47J,Otras malformaciones del sistema genitourinario,Otras malformaciones del sistema genitourinario,47,316,523,0.2971,0.4111,0.114,38.39,0.298,0.4056,0.1076,36.1,up,up,
+33J,Otras enfermedades de la pleura,Otras enfermedades de la pleura,33,334,683,0.314,0.5369,0.2229,70.98,0.3414,0.4407,0.0993,29.1,up,flat,
+11E,Tumores malignos de los tejidos mesoteliales y de los tejidos   blandos,Tumores malignos de los tejidos mesoteliales y de los tejidos   blandos,11,989,1631,0.9298,1.2821,0.3523,37.89,0.9979,1.0929,0.095,9.52,up,flat,
+43R,"Causas obstétricas directas, excepto aborto","Causas obstétricas directas, excepto aborto",43,36,158,0.0338,0.1242,0.0904,266.98,0.0344,0.1266,0.0922,267.63,flat,flat,LOW_BASE
+03I,Septicemia,Septicemia,03,3754,5668,3.5292,4.4554,0.9263,26.25,3.7183,3.7995,0.0812,2.18,up,flat,
+14C,Mieloma múltiple y tumores malignos de células plasmáticas,Mieloma múltiple y tumores malignos de células plasmáticas,14,782,1369,0.7352,1.0761,0.341,46.38,0.8052,0.8838,0.0786,9.76,up,flat,
+35G,Otras hernias,Otras hernias,35,595,1074,0.5594,0.8442,0.2849,50.93,0.6075,0.6824,0.0749,12.34,up,flat,
+14Z,"Los demás tumores malignos del tejido linfático, órganos hematopoyéticos y tejidos afines","Los demás tumores malignos del tejido linfático, órganos hematopoyéticos y tejidos afines",14,25,143,0.0235,0.1124,0.0889,378.28,0.0249,0.0954,0.0704,282.54,flat,flat,LOW_BASE
+22F,Trastornos del humor,Trastornos del humor,22,29,161,0.0273,0.1266,0.0993,364.21,0.0297,0.1001,0.0704,237.25,flat,flat,LOW_BASE
+37D,Otros trastornos de las articulaciones,Otros trastornos de las articulaciones,37,61,198,0.0573,0.1556,0.0983,171.4,0.0611,0.1282,0.067,109.66,flat,flat,LOW_BASE
+07C,Otras rickettsiosis,Otras rickettsiosis,07,4,81,0.0038,0.0637,0.0599,1593.2,0.0037,0.0629,0.0593,1617.08,flat,flat,LOW_BASE
+35N,Colelitiasis y colecistitis,Colelitiasis y colecistitis,35,1230,2108,1.1563,1.657,0.5007,43.3,1.2687,1.3243,0.0556,4.38,up,flat,
+23G,Epilepsia,Epilepsia,23,1620,2215,1.523,1.7411,0.2182,14.32,1.5683,1.6234,0.0551,3.52,up,flat,
+56C,Intervención legal,Intervención legal,56,0,70,0.0,0.055,0.055,,0.0,0.055,0.055,,flat,flat,LOW_BASE|ZERO_YEAR
+26A,Fiebre reumática aguda,Fiebre reumática aguda,26,47,154,0.0442,0.1211,0.0769,173.97,0.0479,0.1023,0.0544,113.38,flat,flat,LOW_BASE
+41C,"Otras enfermedades inflamatorias del útero, de la vagina y de la vulva","Otras enfermedades inflamatorias del útero, de la vagina y de la vulva",41,24,121,0.0226,0.0951,0.0726,321.56,0.0248,0.079,0.0542,218.52,flat,flat,LOW_BASE
+10Z,Los demás tumores malignos de órganos respiratorios e intratorácicos,Los demás tumores malignos de órganos respiratorios e intratorácicos,10,198,369,0.1861,0.2901,0.1039,55.83,0.1999,0.2474,0.0475,23.74,up,flat,
+41D,Otras enfermedades pélvicas inflamatorias femeninas,Otras enfermedades pélvicas inflamatorias femeninas,41,26,106,0.0244,0.0833,0.0589,240.89,0.0265,0.0721,0.0456,172.5,flat,flat,LOW_BASE
+35K,Síndrome del colon irritable y otros trastornos funcionales del instestino,Síndrome del colon irritable y otros trastornos funcionales del instestino,35,82,198,0.0771,0.1556,0.0786,101.9,0.0845,0.1293,0.0448,53.07,flat,flat,LOW_BASE
+37G,Otras dorsopatías,Otras dorsopatías,37,67,175,0.063,0.1376,0.0746,118.4,0.0687,0.1121,0.0434,63.27,flat,flat,LOW_BASE
+11B,Melanoma maligno de la piel,Melanoma maligno de la piel,11,437,761,0.4108,0.5982,0.1874,45.61,0.448,0.4897,0.0417,9.32,up,flat,
+12K,Tumor maligno de la vulva y de la vagina,Tumor maligno de la vulva y de la vagina,12,114,246,0.1072,0.1934,0.0862,80.43,0.1183,0.1575,0.0392,33.12,flat,flat,
+35E,Enfermedades del apéndice,Enfermedades del apéndice,35,545,859,0.5124,0.6752,0.1629,31.79,0.5426,0.5818,0.0392,7.22,up,flat,
+16Z,Las demás tumores in situ,Las demás tumores in situ,16,0,59,0.0,0.0464,0.0464,,0.0,0.0378,0.0378,,flat,flat,LOW_BASE|ZERO_YEAR
+20C,Otros trastornos de la tiroides,Otros trastornos de la tiroides,20,350,603,0.329,0.474,0.145,44.06,0.3536,0.391,0.0375,10.6,up,flat,
+47D,Otras malformaciones del sistema nervioso,Otras malformaciones del sistema nervioso,47,352,381,0.3309,0.2995,-0.0314,-9.5,0.3118,0.3458,0.034,10.91,flat,flat,
+06F,Fiebre del dengue,Fiebre del dengue,06,0,45,0.0,0.0354,0.0354,,0.0,0.0324,0.0324,,flat,flat,LOW_BASE|ZERO_YEAR
+14A,Enfermedad de Hodgkin,Enfermedad de Hodgkin,14,374,600,0.3516,0.4716,0.12,34.14,0.3739,0.4061,0.0321,8.6,up,flat,
+12I,Otros tumores malignos de los órganos genitales masculinos,Otros tumores malignos de los órganos genitales masculinos,12,133,256,0.125,0.2012,0.0762,60.94,0.1362,0.1674,0.0312,22.93,flat,flat,
+22Z,Los demás trastornos mentales y del comportamiento,Los demás trastornos mentales y del comportamiento,22,69,147,0.0649,0.1156,0.0507,78.14,0.0712,0.1019,0.0308,43.25,flat,flat,LOW_BASE
+35H,Enfermedad de Crohn y colitis ulcerativa,Enfermedad de Crohn y colitis ulcerativa,35,98,189,0.0921,0.1486,0.0564,61.26,0.0972,0.1276,0.0304,31.32,flat,flat,LOW_BASE
+20B,Tirotoxicosis,Tirotoxicosis,20,133,237,0.125,0.1863,0.0613,49.0,0.1339,0.1641,0.0302,22.54,flat,flat,
+05Z,Las demás enfermedades infecciosas y parasitarias del grupo,Las demás enfermedades infecciosas y parasitarias del grupo,05,42,98,0.0395,0.077,0.0376,95.1,0.041,0.0701,0.0291,70.92,flat,flat,LOW_BASE
+47M,Otras malformaciones congénitas y deformidades del sistema osteomuscular,Otras malformaciones congénitas y deformidades del sistema osteomuscular,47,455,461,0.4277,0.3624,-0.0654,-15.28,0.3994,0.4284,0.0291,7.28,flat,flat,
+53A,"Envenenamiento accidental por drogas, medicamentos y productos biológicos","Envenenamiento accidental por drogas, medicamentos y productos biológicos",53,146,230,0.1373,0.1808,0.0435,31.72,0.1381,0.1644,0.0263,19.07,flat,flat,
+46Z,Las demás afecciones originadas en el período perinatal,Las demás afecciones originadas en el período perinatal,46,1840,1715,1.7298,1.3481,-0.3817,-22.07,1.6142,1.6404,0.0262,1.62,down,flat,
+38H,Cistitis,Cistitis,38,25,81,0.0235,0.0637,0.0402,170.91,0.0259,0.0518,0.0259,100.27,flat,flat,LOW_BASE
+09C,Tumor maligno del intestino delgado,Tumor maligno del intestino delgado,09,160,294,0.1504,0.2311,0.0807,53.64,0.1645,0.1897,0.0253,15.36,flat,flat,
+13B,Tumor maligno de las meninges y de otras partes del sistema nervioso central,Tumor maligno de las meninges y de otras partes del sistema nervioso central,13,84,151,0.079,0.1187,0.0397,50.31,0.0817,0.104,0.0223,27.24,flat,flat,LOW_BASE
+31F,Venas varicosas de los miembros inferiores,Venas varicosas de los miembros inferiores,31,52,119,0.0489,0.0935,0.0447,91.35,0.0526,0.0742,0.0216,41.0,flat,flat,LOW_BASE
+35F,Hernia inguinal,Hernia inguinal,35,273,489,0.2566,0.3844,0.1277,49.77,0.2813,0.3023,0.0211,7.49,up,flat,
+34Z,"Las demás enfermedades de la cavidad bucal, glándulas salivales y de maxilares","Las demás enfermedades de la cavidad bucal, glándulas salivales y de maxilares",34,43,98,0.0404,0.077,0.0366,90.56,0.0434,0.0641,0.0207,47.73,flat,flat,LOW_BASE
+03Z,Las demás enfermedades bacterianas del grupo,Las demás enfermedades bacterianas del grupo,03,128,203,0.1203,0.1596,0.0392,32.61,0.1251,0.1432,0.0181,14.45,flat,flat,
+17C,Leiomioma uterino,Leiomioma uterino,17,23,57,0.0216,0.0448,0.0232,107.22,0.0232,0.0399,0.0167,71.84,flat,flat,LOW_BASE
+04A,Sífilis congénita,Sífilis congénita,04,14,28,0.0132,0.022,0.0088,67.23,0.0123,0.0268,0.0146,118.51,flat,flat,LOW_BASE
+02B,Otras tuberculosis del aparato respiratorio,Otras tuberculosis del aparato respiratorio,02,11,36,0.0103,0.0283,0.018,173.65,0.0112,0.0242,0.0131,117.28,flat,flat,LOW_BASE
+05M,Secuelas de poliomielitis,Secuelas de poliomielitis,05,4,24,0.0038,0.0189,0.0151,401.69,0.004,0.0162,0.0121,299.71,flat,flat,LOW_BASE
+32G,Sinusitis crónica,Sinusitis crónica,32,2,20,0.0019,0.0157,0.0138,736.15,0.002,0.014,0.0121,614.37,flat,flat,LOW_BASE
+02C,Tuberculosis del sistema nervioso,Tuberculosis del sistema nervioso,02,71,106,0.0667,0.0833,0.0166,24.83,0.0672,0.0785,0.0113,16.74,flat,flat,LOW_BASE
+22G,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos","Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",22,12,36,0.0113,0.0283,0.017,150.84,0.012,0.0226,0.0106,87.8,flat,flat,LOW_BASE
+22I,Retraso mental,Retraso mental,22,2,15,0.0019,0.0118,0.0099,527.11,0.002,0.0106,0.0087,443.61,flat,flat,LOW_BASE
+23E,Esclerosis múltiple,Esclerosis múltiple,23,219,339,0.2059,0.2665,0.0606,29.43,0.2223,0.2303,0.0079,3.57,flat,flat,
+17D,Tumor benigno del ovario,Tumor benigno del ovario,17,9,24,0.0085,0.0189,0.0104,122.97,0.0092,0.0164,0.0071,76.92,flat,flat,LOW_BASE
+03E,Tos ferina,Tos ferina,03,28,33,0.0263,0.0259,-0.0004,-1.45,0.0246,0.0316,0.007,28.58,flat,flat,LOW_BASE
+17F,Tumor benigno del encéfalo y de otras partes del sistema nervioso central,Tumor benigno del encéfalo y de otras partes del sistema nervioso central,17,18,36,0.0169,0.0283,0.0114,67.23,0.0175,0.0245,0.007,40.16,flat,flat,LOW_BASE
+32Z,Otras enfermedades de las vías respiratorias superiores,Otras enfermedades de las vías respiratorias superiores,32,85,126,0.0799,0.099,0.0191,23.95,0.0834,0.0895,0.0061,7.34,flat,flat,LOW_BASE
+06O,Infecciones herpéticas,Infecciones herpéticas,06,5,15,0.0047,0.0118,0.0071,150.84,0.0051,0.0109,0.0058,114.56,flat,flat,LOW_BASE
+48B,Anormalidades cardíacas,Anormalidades cardíacas,48,9,20,0.0085,0.0157,0.0073,85.81,0.0079,0.013,0.0051,63.95,flat,flat,LOW_BASE
+22H,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,22,8,18,0.0075,0.0141,0.0066,88.13,0.008,0.0126,0.0047,58.85,flat,flat,LOW_BASE
+06N,Otras fiebres virales transmitidas por artrópodos y fiebres hemorrágicas virales,Otras fiebres virales transmitidas por artrópodos y fiebres hemorrágicas virales,06,0,6,0.0,0.0047,0.0047,,0.0,0.0042,0.0042,,flat,flat,LOW_BASE|ZERO_YEAR
+48G,Paro respiratorio,Paro respiratorio,48,93,171,0.0874,0.1344,0.047,53.74,0.096,0.099,0.003,3.13,flat,flat,LOW_BASE
+16A,Carcinoma in situ del cuello del útero,Carcinoma in situ del cuello del útero,16,0,4,0.0,0.0031,0.0031,,0.0,0.0029,0.0029,,flat,flat,LOW_BASE|ZERO_YEAR
+36B,Dermatitis y eczema,Dermatitis y eczema,36,0,4,0.0,0.0031,0.0031,,0.0,0.0028,0.0028,,flat,flat,LOW_BASE|ZERO_YEAR
+41E,Endometriosis,Endometriosis,41,1,5,0.0009,0.0039,0.003,318.07,0.001,0.0039,0.0028,282.02,flat,flat,LOW_BASE
+17G,Tumor benigno de la glándula tiroides,Tumor benigno de la glándula tiroides,17,0,4,0.0,0.0031,0.0031,,0.0,0.0025,0.0025,,flat,flat,LOW_BASE|ZERO_YEAR
+37Z,Otras enfermedades del sistema osteomuscular y del tejido conjuntivo,Otras enfermedades del sistema osteomuscular y del tejido conjuntivo,37,18,32,0.0169,0.0252,0.0082,48.65,0.0186,0.0211,0.0025,13.22,flat,flat,LOW_BASE
+38G,"Cólico renal, no especificado","Cólico renal, no especificado",38,0,3,0.0,0.0024,0.0024,,0.0,0.0022,0.0022,,flat,flat,LOW_BASE|ZERO_YEAR
+24Z,Las demás enfermedades del ojo y sus anexos,Las demás enfermedades del ojo y sus anexos,24,6,12,0.0056,0.0094,0.0038,67.23,0.006,0.0081,0.0021,34.38,flat,flat,LOW_BASE
+51C,Cuerpo extraño que penetra por el ojo u orificio natural,Cuerpo extraño que penetra por el ojo u orificio natural,51,1,4,0.0009,0.0031,0.0022,234.46,0.0011,0.0032,0.0021,195.22,flat,flat,LOW_BASE
+03G,Infección meningocócica,Infección meningocócica,03,6,8,0.0056,0.0063,0.0006,11.49,0.0055,0.0068,0.0014,24.7,flat,flat,LOW_BASE
+17E,Tumor benigno de los órganos urinarios,Tumor benigno de los órganos urinarios,17,0,2,0.0,0.0016,0.0016,,0.0,0.0013,0.0013,,flat,flat,LOW_BASE|ZERO_YEAR
+24B,"Trastornos de la esclerótica, queratitis y otros trastornos de la córnea","Trastornos de la esclerótica, queratitis y otros trastornos de la córnea",24,0,2,0.0,0.0016,0.0016,,0.0,0.0013,0.0013,,flat,flat,LOW_BASE|ZERO_YEAR
+05I,Filariasis,Filariasis,05,0,2,0.0,0.0016,0.0016,,0.0,0.0012,0.0012,,flat,flat,LOW_BASE|ZERO_YEAR
+21Z,Las demás deficiencias nutricionales,Las demás deficiencias nutricionales,21,9,18,0.0085,0.0141,0.0057,67.23,0.0092,0.0105,0.0012,13.39,flat,flat,LOW_BASE
+12B,Tumor maligno de la placenta,Tumor maligno de la placenta,12,8,11,0.0075,0.0086,0.0011,14.97,0.0076,0.0086,0.001,13.01,flat,flat,LOW_BASE
+23J,"Trastornos de los nervios, de las raíces y de los plexos nerviosos","Trastornos de los nervios, de las raíces y de los plexos nerviosos",23,2,5,0.0019,0.0039,0.0021,109.04,0.0021,0.0031,0.001,50.5,flat,flat,LOW_BASE
+43P,Trastornos mentales y del comportamiento asociados con el puerperio,Trastornos mentales y del comportamiento asociados con el puerperio,43,0,1,0.0,0.0008,0.0008,,0.0,0.0008,0.0008,,flat,flat,LOW_BASE|ZERO_YEAR
+25Z,Las demás enfermedades del oído y apófisis mastoides,Las demás enfermedades del oído y apófisis mastoides,25,1,3,0.0009,0.0024,0.0014,150.84,0.001,0.0018,0.0007,71.15,flat,flat,LOW_BASE
+04F,Otras infecciones con un modo de transmisión predominantemente sexual,Otras infecciones con un modo de transmisión predominantemente sexual,04,0,1,0.0,0.0008,0.0008,,0.0,0.0006,0.0006,,flat,flat,LOW_BASE|ZERO_YEAR
+05F,Equinococosis,Equinococosis,05,0,1,0.0,0.0008,0.0008,,0.0,0.0006,0.0006,,flat,flat,LOW_BASE|ZERO_YEAR
+34A,Caries dental,Caries dental,34,0,1,0.0,0.0008,0.0008,,0.0,0.0006,0.0006,,flat,flat,LOW_BASE|ZERO_YEAR
+41H,Trastornos de la menstruación,Trastornos de la menstruación,41,0,1,0.0,0.0008,0.0008,,0.0,0.0006,0.0006,,flat,flat,LOW_BASE|ZERO_YEAR
+41I,Otros trastornos menopáusicos y perimenopáusicos,Otros trastornos menopáusicos y perimenopáusicos,41,0,1,0.0,0.0008,0.0008,,0.0,0.0006,0.0006,,flat,flat,LOW_BASE|ZERO_YEAR
+37C,Deformidades adquiridas de los miembros,Deformidades adquiridas de los miembros,37,0,1,0.0,0.0008,0.0008,,0.0,0.0005,0.0005,,flat,flat,LOW_BASE|ZERO_YEAR
+17A,Tumores benignos de la piel,Tumores benignos de la piel,17,1,2,0.0009,0.0016,0.0006,67.23,0.0011,0.0015,0.0004,37.73,flat,flat,LOW_BASE
+21B,Marasmo nutricional,Marasmo nutricional,21,35,57,0.0329,0.0448,0.0119,36.17,0.0341,0.0346,0.0004,1.28,flat,flat,LOW_BASE
+24F,Desprendimiento y desgarro de la retina,Desprendimiento y desgarro de la retina,24,0,1,0.0,0.0008,0.0008,,0.0,0.0004,0.0004,,flat,flat,LOW_BASE|ZERO_YEAR
+41G,"Trastornos no inflamatorios del ovario, de la trompa de falopio y del ligamento ancho","Trastornos no inflamatorios del ovario, de la trompa de falopio y del ligamento ancho",41,17,24,0.016,0.0189,0.0029,18.04,0.0169,0.0173,0.0004,2.58,flat,flat,LOW_BASE
+05A,Otras enfermedades debidas a espiroquetas,Otras enfermedades debidas a espiroquetas,05,3,3,0.0028,0.0024,-0.0005,-16.39,0.0019,0.0022,0.0003,14.57,flat,flat,LOW_BASE
+13C,Tumores malignos del ojo y sus anexos,Tumores malignos del ojo y sus anexos,13,90,119,0.0846,0.0935,0.0089,10.56,0.0859,0.0859,0.0001,0.06,flat,flat,LOW_BASE
+46J,Tétanos neonatal,Tétanos neonatal,46,1,1,0.0009,0.0008,-0.0002,-16.39,0.0009,0.001,0.0001,9.13,flat,flat,LOW_BASE
+47I,Testículo no descendido,Testículo no descendido,47,1,1,0.0009,0.0008,-0.0002,-16.39,0.0009,0.001,0.0001,8.94,flat,flat,LOW_BASE
+06I,Encefalitis viral transmitida por artrópodos,Encefalitis viral transmitida por artrópodos,06,126,157,0.1185,0.1234,0.005,4.19,0.1181,0.1181,0.0,0.02,flat,flat,
+05E,Otras infecciones debidas a trematodos,Otras infecciones debidas a trematodos,05,1,1,0.0009,0.0008,-0.0002,-16.39,0.0009,0.0006,-0.0003,-30.8,flat,flat,LOW_BASE
+23H,Migraña y otros síndromes de cefalea,Migraña y otros síndromes de cefalea,23,1,1,0.0009,0.0008,-0.0002,-16.39,0.0009,0.0006,-0.0003,-31.21,flat,flat,LOW_BASE
+02D,"Tuberculosis de los intestinos, el peritoneo y los ganglios mesentéricos","Tuberculosis de los intestinos, el peritoneo y los ganglios mesentéricos",02,32,46,0.0301,0.0362,0.0061,20.2,0.0318,0.0315,-0.0004,-1.12,flat,flat,LOW_BASE
+32I,Otros trastornos de la nariz y de los senos paranasales,Otros trastornos de la nariz y de los senos paranasales,32,1,1,0.0009,0.0008,-0.0002,-16.39,0.001,0.0007,-0.0004,-34.65,flat,flat,LOW_BASE
+01C,Fiebre paratifoidea,Fiebre paratifoidea,01,1,1,0.0009,0.0008,-0.0002,-16.39,0.001,0.0006,-0.0005,-45.33,flat,flat,LOW_BASE
+04C,Otras sífilis,Otras sífilis,04,2,2,0.0019,0.0016,-0.0003,-16.39,0.002,0.0015,-0.0005,-24.97,flat,flat,LOW_BASE
+07B,Otros tifus,Otros tifus,07,1,0,0.0009,0.0,-0.0009,-100.0,0.001,0.0,-0.001,-100.0,flat,flat,LOW_BASE|ZERO_YEAR
+21D,Deficiencia de vitamina A,Deficiencia de vitamina A,21,1,0,0.0009,0.0,-0.0009,-100.0,0.001,0.0,-0.001,-100.0,flat,flat,LOW_BASE|ZERO_YEAR
+25B,Otros trastornos del oído medio,Otros trastornos del oído medio,25,1,0,0.0009,0.0,-0.0009,-100.0,0.001,0.0,-0.001,-100.0,flat,flat,LOW_BASE|ZERO_YEAR
+41B,Enfermedad inflamatoria del cuello uterino,Enfermedad inflamatoria del cuello uterino,41,5,6,0.0047,0.0047,0.0,0.34,0.0051,0.0041,-0.001,-18.92,flat,flat,LOW_BASE
+48C,Retención de orina,Retención de orina,48,1,0,0.0009,0.0,-0.0009,-100.0,0.001,0.0,-0.001,-100.0,flat,flat,LOW_BASE|ZERO_YEAR
+43A,Aborto espontáneo,Aborto espontáneo,43,2,1,0.0019,0.0008,-0.0011,-58.19,0.0019,0.0008,-0.0011,-58.66,flat,flat,LOW_BASE
+43S,Muerte obstétrica de causa no especificada,Muerte obstétrica de causa no especificada,43,4,3,0.0038,0.0024,-0.0014,-37.29,0.0037,0.0024,-0.0013,-35.34,flat,flat,LOW_BASE
+24G,Ceguera y disminución de la agudeza visual,Ceguera y disminución de la agudeza visual,24,2,1,0.0019,0.0008,-0.0011,-58.19,0.0021,0.0006,-0.0016,-73.5,flat,flat,LOW_BASE
+37F,Trastornos de los discos cervicales y de otros discos intervertebrales,Trastornos de los discos cervicales y de otros discos intervertebrales,37,35,53,0.0329,0.0417,0.0088,26.62,0.0359,0.0342,-0.0018,-4.92,flat,flat,LOW_BASE
+06Q,Parotiditis infecciosa,Parotiditis infecciosa,06,4,3,0.0038,0.0024,-0.0014,-37.29,0.0036,0.0015,-0.0021,-58.29,flat,flat,LOW_BASE
+03C,Lepra,Lepra,03,3,1,0.0028,0.0008,-0.002,-72.13,0.003,0.0006,-0.0024,-79.93,flat,flat,LOW_BASE
+39C,Hidrocele y espermatocele,Hidrocele y espermatocele,39,3,1,0.0028,0.0008,-0.002,-72.13,0.0031,0.0006,-0.0024,-79.65,flat,flat,LOW_BASE
+41Z,Otros trastornos del sistema genitourinario femenino,Otros trastornos del sistema genitourinario femenino,41,50,74,0.047,0.0582,0.0112,23.75,0.0509,0.0485,-0.0024,-4.73,flat,flat,LOW_BASE
+40,Trastornos de la mama,Trastornos de la mama,40,5,4,0.0047,0.0031,-0.0016,-33.11,0.0052,0.0027,-0.0025,-47.9,flat,flat,LOW_BASE
+43H,Infección de las vías genitourinarias en el embarazo,Infección de las vías genitourinarias en el embarazo,43,7,5,0.0066,0.0039,-0.0027,-40.28,0.0065,0.004,-0.0025,-38.28,flat,flat,LOW_BASE
+03B,Brucelosis,Brucelosis,03,5,3,0.0047,0.0024,-0.0023,-49.83,0.0048,0.0019,-0.0029,-60.79,flat,flat,LOW_BASE
+07E,Leishmaniasis,Leishmaniasis,07,4,1,0.0038,0.0008,-0.003,-79.1,0.0036,0.0007,-0.0029,-81.33,flat,flat,LOW_BASE
+41A,Salpingitis y ooforitis,Salpingitis y ooforitis,41,18,22,0.0169,0.0173,0.0004,2.2,0.0186,0.0156,-0.003,-16.03,flat,flat,LOW_BASE
+06L,Rabia,Rabia,06,4,0,0.0038,0.0,-0.0038,-100.0,0.0035,0.0,-0.0035,-100.0,flat,flat,LOW_BASE|ZERO_YEAR
+02E,Tuberculosis de huesos y articulaciones,Tuberculosis de huesos y articulaciones,02,17,20,0.016,0.0157,-0.0003,-1.63,0.0172,0.013,-0.0042,-24.55,flat,flat,LOW_BASE
+47G,"Ausencia, atresia y estenosis congénita del intestino delgado","Ausencia, atresia y estenosis congénita del intestino delgado",47,114,100,0.1072,0.0786,-0.0286,-26.65,0.1002,0.0959,-0.0043,-4.33,flat,flat,
+34B,Otros trastornos de los dientes y de sus estructuras de sostén,Otros trastornos de los dientes y de sus estructuras de sostén,34,15,15,0.0141,0.0118,-0.0023,-16.39,0.0149,0.0105,-0.0044,-29.7,flat,flat,LOW_BASE
+32H,Enfermedades crónicas de las amígdalas y vegetaciones adenoides,Enfermedades crónicas de las amígdalas y vegetaciones adenoides,32,6,1,0.0056,0.0008,-0.0049,-86.06,0.0057,0.0007,-0.0049,-86.92,flat,flat,LOW_BASE
+21E,Otras deficiencias vitamínicas,Otras deficiencias vitamínicas,21,27,37,0.0254,0.0291,0.0037,14.58,0.0274,0.0225,-0.005,-18.15,flat,flat,LOW_BASE
+32B,Amigdalitis aguda,Amigdalitis aguda,32,14,9,0.0132,0.0071,-0.0061,-46.25,0.012,0.0066,-0.0055,-45.5,flat,flat,LOW_BASE
+32F,"Rinitis, rinofaringitis y faringitis crónicas","Rinitis, rinofaringitis y faringitis crónicas",32,9,4,0.0085,0.0031,-0.0053,-62.84,0.0088,0.0026,-0.0062,-70.74,flat,flat,LOW_BASE
+41F,Prolapso genital femenino,Prolapso genital femenino,41,14,13,0.0132,0.0102,-0.0029,-22.36,0.0145,0.0083,-0.0062,-42.69,flat,flat,LOW_BASE
+43I,Diabetes mellitus en el embarazo,Diabetes mellitus en el embarazo,43,14,7,0.0132,0.0055,-0.0077,-58.19,0.0132,0.0056,-0.0076,-57.35,flat,flat,LOW_BASE
+01D,Shigelosis,Shigelosis,01,8,0,0.0075,0.0,-0.0075,-100.0,0.0078,0.0,-0.0078,-100.0,flat,flat,LOW_BASE|ZERO_YEAR
+25A,"Otitis media, trastornos de la trompa de eustaquio y mastoiditis","Otitis media, trastornos de la trompa de eustaquio y mastoiditis",25,42,47,0.0395,0.0369,-0.0025,-6.43,0.0415,0.033,-0.0086,-20.65,flat,flat,LOW_BASE
+37J,Osteomielitis,Osteomielitis,37,63,87,0.0592,0.0684,0.0092,15.47,0.0648,0.0559,-0.0089,-13.68,flat,flat,LOW_BASE
+23I,Ataques de isquemia cerebral transitoria y síndromes afines,Ataques de isquemia cerebral transitoria y síndromes afines,23,15,10,0.0141,0.0079,-0.0062,-44.26,0.0157,0.0061,-0.0096,-61.03,flat,flat,LOW_BASE
+34C,Otras enfermedades de los maxilares,Otras enfermedades de los maxilares,34,19,14,0.0179,0.011,-0.0069,-38.39,0.019,0.0092,-0.0098,-51.78,flat,flat,LOW_BASE
+12E,Tumor maligno de otros órganos genitales femeninos y de los no especificados,Tumor maligno de otros órganos genitales femeninos y de los no especificados,12,27,27,0.0254,0.0212,-0.0042,-16.39,0.0274,0.0175,-0.0099,-36.04,flat,flat,LOW_BASE
+38F,Litiasis urinaria,Litiasis urinaria,38,197,293,0.1852,0.2303,0.0451,24.36,0.2016,0.1909,-0.0107,-5.31,flat,flat,
+03F,Escarlatina y erisipela,Escarlatina y erisipela,03,24,18,0.0226,0.0141,-0.0084,-37.29,0.0239,0.0117,-0.0122,-50.93,flat,flat,LOW_BASE
+47B,Hidrocéfalo congénito,Hidrocéfalo congénito,47,448,412,0.4212,0.3239,-0.0973,-23.1,0.3943,0.381,-0.0133,-3.37,flat,flat,
+31G,Hemorroides,Hemorroides,31,14,0,0.0132,0.0,-0.0132,-100.0,0.0142,0.0,-0.0142,-100.0,flat,flat,LOW_BASE|ZERO_YEAR
+43J,Trabajo de parto obstruido,Trabajo de parto obstruido,43,16,0,0.015,0.0,-0.015,-100.0,0.0155,0.0,-0.0155,-100.0,flat,flat,LOW_BASE|ZERO_YEAR
+20A,Trastornos tiroideos relacionados con la deficiencia de yodo,Trastornos tiroideos relacionados con la deficiencia de yodo,20,17,2,0.016,0.0016,-0.0144,-90.16,0.0171,0.0012,-0.016,-93.25,flat,flat,LOW_BASE
+02F,Tuberculosis del  aparato genitourinario,Tuberculosis del  aparato genitourinario,02,20,5,0.0188,0.0039,-0.0149,-79.1,0.0202,0.0031,-0.017,-84.43,flat,flat,LOW_BASE
+07F,Tripanosomiasis,Tripanosomiasis,07,35,29,0.0329,0.0228,-0.0101,-30.72,0.0359,0.0185,-0.0174,-48.37,flat,flat,LOW_BASE
+49D,Accidentes de transporte acuático,Accidentes de transporte acuático,49,32,19,0.0301,0.0149,-0.0151,-50.35,0.0315,0.0139,-0.0176,-55.98,flat,flat,LOW_BASE
+43L,Sepsis y otras infecciones puerperales,Sepsis y otras infecciones puerperales,43,30,12,0.0282,0.0094,-0.0188,-66.55,0.0282,0.0098,-0.0184,-65.18,flat,flat,LOW_BASE
+43G,Otra atención materna relacionada con el feto y con la cavidad amniótica y con posibles problemas del parto,Otra atención materna relacionada con el feto y con la cavidad amniótica y con posibles problemas del parto,43,51,37,0.0479,0.0291,-0.0189,-39.34,0.0482,0.0293,-0.0189,-39.18,flat,flat,LOW_BASE
+46D,Traumatismo del nacimiento,Traumatismo del nacimiento,46,49,25,0.0461,0.0197,-0.0264,-57.34,0.0431,0.024,-0.0191,-44.38,flat,flat,LOW_BASE
+51F,Secuelas de accidentes de transporte y otros accidentes,Secuelas de accidentes de transporte y otros accidentes,51,331,519,0.3112,0.408,0.0968,31.11,0.341,0.3209,-0.0201,-5.91,flat,flat,
+19C,Ciertos trastornos que afectan el mecanismo de la inmunidad,Ciertos trastornos que afectan el mecanismo de la inmunidad,19,108,109,0.1015,0.0857,-0.0159,-15.61,0.1029,0.0795,-0.0233,-22.69,flat,flat,
+12H,Tumor maligno de la vejiga urinaria,Tumor maligno de la vejiga urinaria,12,749,1194,0.7041,0.9386,0.2344,33.29,0.7733,0.7482,-0.0251,-3.24,up,flat,
+22E,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes","Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",22,111,133,0.1044,0.1045,0.0002,0.19,0.1118,0.0866,-0.0251,-22.48,flat,flat,
+03H,Otros tétanos,Otros tétanos,03,33,12,0.031,0.0094,-0.0216,-69.59,0.0336,0.0084,-0.0252,-74.9,flat,flat,LOW_BASE
+05C,Micosis,Micosis,05,195,227,0.1833,0.1784,-0.0049,-2.66,0.1912,0.1653,-0.026,-13.58,flat,flat,
+47C,Espina bífida,Espina bífida,47,173,145,0.1626,0.114,-0.0487,-29.92,0.153,0.1266,-0.0265,-17.29,flat,flat,
+57,"Drogas, medicamentos y sustancias biológicas causantes de efectos adversos en su uso terapéutico","Drogas, medicamentos y sustancias biológicas causantes de efectos adversos en su uso terapéutico",57,144,164,0.1354,0.1289,-0.0065,-4.77,0.1429,0.116,-0.0268,-18.79,flat,flat,
+19A,Anemias por deficiencia de hierro,Anemias por deficiencia de hierro,19,100,115,0.094,0.0904,-0.0036,-3.84,0.1008,0.0734,-0.0275,-27.23,flat,flat,
+46I,Enfermedad hemolítica del feto y del recién nacido,Enfermedad hemolítica del feto y del recién nacido,46,52,17,0.0489,0.0134,-0.0355,-72.66,0.0457,0.0163,-0.0294,-64.36,flat,flat,LOW_BASE
+01B,Fiebre tifoidea,Fiebre tifoidea,01,64,43,0.0602,0.0338,-0.0264,-43.82,0.063,0.0322,-0.0308,-48.85,flat,flat,LOW_BASE
+43C,Otro aborto,Otro aborto,43,91,69,0.0855,0.0542,-0.0313,-36.6,0.0862,0.0552,-0.031,-35.96,flat,flat,LOW_BASE
+47F,Fisura del paladar y labio leporino,Fisura del paladar y labio leporino,47,72,32,0.0677,0.0252,-0.0425,-62.84,0.0625,0.0306,-0.0319,-51.03,flat,flat,LOW_BASE
+43M,Otras complicaciones del puerperio,Otras complicaciones del puerperio,43,74,46,0.0696,0.0362,-0.0334,-48.02,0.0697,0.0367,-0.0331,-47.45,flat,flat,LOW_BASE
+47H,Otras deformidades del aparato digestivo,Otras deformidades del aparato digestivo,47,437,382,0.4108,0.3003,-0.1105,-26.91,0.3884,0.353,-0.0355,-9.13,down,flat,
+53B,Envenenamiento accidental por otras sustancias sólidas y líquidas,Envenenamiento accidental por otras sustancias sólidas y líquidas,53,458,553,0.4306,0.4347,0.0041,0.96,0.4352,0.3988,-0.0364,-8.37,flat,flat,
+06Z,Las demás enfermedades víricas,Las demás enfermedades víricas,06,96,68,0.0903,0.0535,-0.0368,-40.77,0.0902,0.0526,-0.0376,-41.68,flat,flat,LOW_BASE
+46H,Otras infecciones específicas del período perinatal,Otras infecciones específicas del período perinatal,46,99,49,0.0931,0.0385,-0.0546,-58.61,0.087,0.047,-0.0401,-46.03,flat,flat,LOW_BASE
+31E,"Flebitis, tromboflebitis, embolias y trombosis venosas","Flebitis, tromboflebitis, embolias y trombosis venosas",31,394,568,0.3704,0.4465,0.0761,20.54,0.4022,0.3619,-0.0403,-10.02,flat,flat,
+49E,Accidentes de transporte aéreo y espacial,Accidentes de transporte aéreo y espacial,49,74,41,0.0696,0.0322,-0.0373,-53.67,0.0726,0.0301,-0.0425,-58.51,flat,flat,LOW_BASE
+32C,Laringitis y traqueítis agudas,Laringitis y traqueítis agudas,32,75,30,0.0705,0.0236,-0.0469,-66.55,0.0681,0.0242,-0.0439,-64.46,flat,flat,LOW_BASE
+45,Causas obstétricas indirectas,Causas obstétricas indirectas,45,225,208,0.2115,0.1635,-0.048,-22.7,0.2115,0.1668,-0.0448,-21.16,flat,flat,
+43F,"Hemorragia precoz del embarazo, placenta previa, desprendimiento prematuro de la placenta y hemorragia anteparto","Hemorragia precoz del embarazo, placenta previa, desprendimiento prematuro de la placenta y hemorragia anteparto",43,69,26,0.0649,0.0204,-0.0444,-68.49,0.0658,0.0205,-0.0453,-68.84,flat,flat,LOW_BASE
+14D,Leucemias,Leucemias,14,3729,4872,3.5057,3.8297,0.3241,9.24,3.6036,3.5558,-0.0477,-1.32,up,flat,
+43N,Otras complicaciones del embarazo y del parto,Otras complicaciones del embarazo y del parto,43,101,59,0.095,0.0464,-0.0486,-51.16,0.0951,0.047,-0.0481,-50.62,flat,flat,
+51D,Accidente causado por maquinaria y por instrumentos cortantes o punzantes,Accidente causado por maquinaria y por instrumentos cortantes o punzantes,51,170,158,0.1598,0.1242,-0.0356,-22.29,0.1651,0.1166,-0.0485,-29.39,flat,flat,
+39B,Otros trastornos de la próstata,Otros trastornos de la próstata,39,117,119,0.11,0.0935,-0.0165,-14.96,0.1212,0.0704,-0.0508,-41.94,flat,flat,
+21A,Kwashiorkor,Kwashiorkor,21,60,12,0.0564,0.0094,-0.047,-83.28,0.0604,0.0089,-0.0515,-85.26,flat,flat,LOW_BASE
+33F,Bronquiectasia,Bronquiectasia,33,90,61,0.0846,0.048,-0.0367,-43.33,0.0924,0.0386,-0.0539,-58.29,flat,flat,LOW_BASE
+32A,Faringitis aguda,Faringitis aguda,32,86,39,0.0808,0.0307,-0.0502,-62.08,0.0812,0.0257,-0.0555,-68.36,flat,flat,LOW_BASE
+31C,Embolia y trombosis arteriales,Embolia y trombosis arteriales,31,253,326,0.2378,0.2563,0.0184,7.74,0.2608,0.2049,-0.0558,-21.41,flat,flat,
+23F,Parálisis cerebral y otros síndromes paralíticos,Parálisis cerebral y otros síndromes paralíticos,23,1289,1423,1.2118,1.1186,-0.0932,-7.69,1.1997,1.1435,-0.0562,-4.69,flat,flat,
+36Z,Las demás enfermedades de la piel y tejido subcutáneo,Las demás enfermedades de la piel y tejido subcutáneo,36,1026,1608,0.9645,1.264,0.2994,31.05,1.0587,0.9999,-0.0588,-5.55,up,flat,
+49A,Accidentes de ferrocarril,Accidentes de ferrocarril,49,188,168,0.1767,0.1321,-0.0447,-25.28,0.1672,0.1078,-0.0594,-35.51,flat,flat,
+23A,Meningitis,Meningitis,23,398,442,0.3742,0.3474,-0.0267,-7.14,0.3808,0.3202,-0.0605,-15.9,flat,flat,
+29A,Embolia pulmonar,Embolia pulmonar,29,1191,1778,1.1197,1.3976,0.278,24.83,1.2034,1.1406,-0.0629,-5.23,up,flat,
+46A,Enfermedades de la madre que afectan al feto o al recién nacido,Enfermedades de la madre que afectan al feto o al recién nacido,46,155,76,0.1457,0.0597,-0.086,-59.0,0.1363,0.0729,-0.0634,-46.54,flat,flat,
+31B,Otras enfermedades vasculares periféricas,Otras enfermedades vasculares periféricas,31,295,400,0.2773,0.3144,0.0371,13.38,0.3067,0.2429,-0.0638,-20.82,flat,flat,
+05O,Secuelas de otras enfermedades infecciosas y parasitarias y de las no especificadas,Secuelas de otras enfermedades infecciosas y parasitarias y de las no especificadas,05,174,162,0.1636,0.1273,-0.0362,-22.15,0.1754,0.1093,-0.0661,-37.69,flat,flat,
+49Z,Los demás accidentes de transporte,Los demás accidentes de transporte,49,153,107,0.1438,0.0841,-0.0597,-41.52,0.1477,0.0787,-0.0691,-46.75,flat,flat,
+01F,Amebiasis,Amebiasis,01,110,55,0.1034,0.0432,-0.0602,-58.19,0.1106,0.0362,-0.0744,-67.25,flat,flat,
+14B,Linfoma no Hodgkin,Linfoma no Hodgkin,14,1965,2884,1.8473,2.267,0.4197,22.72,1.9861,1.9064,-0.0797,-4.01,up,flat,
+01E,Intoxicación alimentaria,Intoxicación alimentaria,01,121,51,0.1138,0.0401,-0.0737,-64.76,0.118,0.0378,-0.0802,-67.93,flat,flat,
+06J,Hepatitis aguda tipo B,Hepatitis aguda tipo B,06,113,48,0.1062,0.0377,-0.0685,-64.48,0.1143,0.0327,-0.0816,-71.41,flat,flat,
+48D,Dolor abdominal y pélvico,Dolor abdominal y pélvico,48,145,98,0.1363,0.077,-0.0593,-43.49,0.1476,0.0656,-0.082,-55.55,flat,flat,
+59,"Secuelas de lesiones autoinfligidas, agresiones y eventos de intención no determinada, de atención médica y quirúrgica y de otras causas externas","Secuelas de lesiones autoinfligidas, agresiones y eventos de intención no determinada, de atención médica y quirúrgica y de otras causas externas",59,100,25,0.094,0.0197,-0.0744,-79.1,0.1016,0.0181,-0.0834,-82.15,flat,flat,
+53C,"Envenenamiento accidental por, y exposición a otros  gases y vapores","Envenenamiento accidental por, y exposición a otros  gases y vapores",53,307,286,0.2886,0.2248,-0.0638,-22.1,0.2946,0.2074,-0.0873,-29.62,flat,flat,
+35A,Enfermedades del esófago,Enfermedades del esófago,35,340,342,0.3196,0.2688,-0.0508,-15.89,0.3266,0.237,-0.0896,-27.44,flat,flat,
+17Z,Los demás tumores benignos,Los demás tumores benignos,17,570,727,0.5359,0.5715,0.0356,6.65,0.5737,0.4828,-0.0909,-15.85,flat,flat,
+38E,Otras enfermedades renales tubulointersticiales,Otras enfermedades renales tubulointersticiales,38,205,179,0.1927,0.1407,-0.052,-26.99,0.2104,0.1172,-0.0931,-44.28,flat,flat,
+33H,Neumoconiosis,Neumoconiosis,33,150,91,0.141,0.0715,-0.0695,-49.27,0.1552,0.059,-0.0962,-62.0,flat,flat,
+47A,Anencefalia y malformaciones congénitas similares,Anencefalia y malformaciones congénitas similares,47,304,173,0.2858,0.136,-0.1498,-52.42,0.2663,0.1659,-0.1005,-37.72,down,down,
+23C,Enfermedad de Parkinson,Enfermedad de Parkinson,23,1063,1638,0.9993,1.2876,0.2882,28.84,1.1042,1.002,-0.1023,-9.26,up,down,DIRECTION_FLIP
+30E,Aterosclerosis cerebral,Aterosclerosis cerebral,30,125,41,0.1175,0.0322,-0.0853,-72.57,0.1307,0.0243,-0.1064,-81.42,flat,down,
+13A,Tumor maligno del encéfalo,Tumor maligno del encéfalo,13,1722,2305,1.6189,1.8119,0.193,11.92,1.7111,1.5985,-0.1126,-6.58,up,down,DIRECTION_FLIP
+08,"Tumores malignos del labio, de la cavidad bucal y de la faringe","Tumores malignos del labio, de la cavidad bucal y de la faringe",08,959,1357,0.9016,1.0667,0.1651,18.32,0.9837,0.871,-0.1128,-11.46,up,down,DIRECTION_FLIP
+02Z,Las demás tuberculosis,Las demás tuberculosis,02,205,133,0.1927,0.1045,-0.0882,-45.75,0.2038,0.0907,-0.1131,-55.5,flat,down,
+31D,"Otras enfermedades de las arterias, las arteriolas y los vasos capilares","Otras enfermedades de las arterias, las arteriolas y los vasos capilares",31,946,1331,0.8893,1.0463,0.1569,17.64,0.9668,0.8431,-0.1237,-12.8,up,down,DIRECTION_FLIP
+37I,Trastornos de la densidad y de la estructura ósea,Trastornos de la densidad y de la estructura ósea,37,317,330,0.298,0.2594,-0.0386,-12.96,0.3318,0.1973,-0.1345,-40.55,flat,down,
+58,"Contratiempos durante la atención médica, reacciones anormales y complicaciones ulteriores","Contratiempos durante la atención médica, reacciones anormales y complicaciones ulteriores",58,291,240,0.2736,0.1887,-0.0849,-31.04,0.2944,0.1589,-0.1355,-46.02,flat,down,
+23B,Otras enfermedades inflamatorias del sistema nervioso central,Otras enfermedades inflamatorias del sistema nervioso central,23,719,719,0.6759,0.5652,-0.1108,-16.39,0.677,0.5394,-0.1375,-20.32,down,down,
+49C,Accidentes de otros vehículos de carretera,Accidentes de otros vehículos de carretera,49,259,145,0.2435,0.114,-0.1295,-53.19,0.2492,0.106,-0.1433,-57.48,down,down,
+46B,Complicaciones obstétricas que afectan al feto o recién nacido,Complicaciones obstétricas que afectan al feto o recién nacido,46,552,356,0.5189,0.2798,-0.2391,-46.07,0.4844,0.3394,-0.145,-29.94,down,down,
+20F,Obesidad,Obesidad,20,1017,1266,0.9561,0.9952,0.0391,4.09,1.0325,0.8754,-0.1572,-15.22,flat,down,
+43K,Hemorragia postparto,Hemorragia postparto,43,231,65,0.2172,0.0511,-0.1661,-76.47,0.2183,0.0519,-0.1664,-76.24,down,down,
+39A,Hiperplasia de la próstata,Hiperplasia de la próstata,39,660,890,0.6205,0.6996,0.0791,12.75,0.687,0.5205,-0.1665,-24.24,flat,down,
+22D,Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas,Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas,22,357,265,0.3356,0.2083,-0.1273,-37.93,0.3589,0.1896,-0.1694,-47.19,down,down,
+52,"Exposición al humo, fuego y llamas","Exposición al humo, fuego y llamas",52,703,719,0.6609,0.5652,-0.0957,-14.48,0.6787,0.5058,-0.173,-25.48,flat,down,
+38B,Otras enfermedades glomerulares,Otras enfermedades glomerulares,38,388,313,0.3648,0.246,-0.1187,-32.55,0.3857,0.2072,-0.1785,-46.28,down,down,
+43E,"Edema, proteinuria y trastornos hipertensivos en el embarazo, parto y puerperio","Edema, proteinuria y trastornos hipertensivos en el embarazo, parto y puerperio",43,324,157,0.3046,0.1234,-0.1812,-59.48,0.3056,0.1259,-0.1796,-58.78,down,down,
+09A,Tumor maligno del esófago,Tumor maligno del esófago,09,867,1109,0.8151,0.8717,0.0567,6.95,0.893,0.7095,-0.1835,-20.55,flat,down,
+05K,Otras helmintiasis,Otras helmintiasis,05,232,60,0.2181,0.0472,-0.1709,-78.38,0.2277,0.0436,-0.1841,-80.85,down,down,
+05L,Secuelas de tuberculosis,Secuelas de tuberculosis,05,249,106,0.2341,0.0833,-0.1508,-64.41,0.255,0.0694,-0.1856,-72.78,down,down,
+06P,Varicela y herpes zoster,Varicela y herpes zoster,06,274,78,0.2576,0.0613,-0.1963,-76.2,0.2529,0.0591,-0.1937,-76.62,down,down,
+37B,Artrosis,Artrosis,37,330,236,0.3102,0.1855,-0.1247,-40.2,0.3406,0.1409,-0.1997,-58.64,down,down,
+32D,Otras infecciones agudas de las vías respiratorias superiores,Otras infecciones agudas de las vías respiratorias superiores,32,249,49,0.2341,0.0385,-0.1956,-83.55,0.2356,0.0337,-0.2019,-85.71,down,down,
+48A,Fiebre de origen desconocido,Fiebre de origen desconocido,48,260,56,0.2444,0.044,-0.2004,-81.99,0.2541,0.0433,-0.2108,-82.96,down,down,
+13Z,Los demás tumores malignos de otros sitios y los no especificados,Los demás tumores malignos de otros sitios y los no especificados,13,3677,5447,3.4568,4.2817,0.8249,23.86,3.7475,3.5231,-0.2244,-5.99,up,down,DIRECTION_FLIP
+46C,"Crecimiento fetal lento, desnutrición fetal y trastornos relacionados con la gestación corta y el bajo peso al nacer","Crecimiento fetal lento, desnutrición fetal y trastornos relacionados con la gestación corta y el bajo peso al nacer",46,1353,998,1.272,0.7845,-0.4875,-38.32,1.1878,0.951,-0.2368,-19.93,down,down,
+31Z,Las demás enfermedades del aparato circulatorio,Las demás enfermedades del aparato circulatorio,31,856,981,0.8047,0.7711,-0.0336,-4.18,0.8792,0.6168,-0.2623,-29.84,flat,down,
+35C,Otras enfermedades del estómago y del duodeno,Otras enfermedades del estómago y del duodeno,35,558,475,0.5246,0.3734,-0.1512,-28.82,0.5726,0.301,-0.2715,-47.42,down,down,
+11C,Otros tumores malignos de la piel,Otros tumores malignos de la piel,11,805,891,0.7568,0.7004,-0.0564,-7.45,0.8306,0.5398,-0.2908,-35.02,flat,down,
+51A,Accidentes debido a factores naturales y del ambiente,Accidentes debido a factores naturales y del ambiente,51,653,475,0.6139,0.3734,-0.2405,-39.18,0.6315,0.3302,-0.3012,-47.7,down,down,
+10A,Tumor maligno de la laringe,Tumor maligno de la laringe,10,767,771,0.7211,0.6061,-0.115,-15.95,0.7869,0.4851,-0.3018,-38.35,down,down,
+20G,Depleción del volumen,Depleción del volumen,20,757,697,0.7117,0.5479,-0.1638,-23.01,0.7707,0.4362,-0.3345,-43.4,down,down,
+37A,Poliartropatías inflamatorias,Poliartropatías inflamatorias,37,1316,1611,1.2372,1.2664,0.0292,2.36,1.3609,1.0247,-0.3362,-24.7,flat,down,
+09G,Tumor maligno del páncreas,Tumor maligno del páncreas,09,3200,4625,3.0083,3.6356,0.6272,20.85,3.2976,2.9598,-0.3378,-10.24,up,down,DIRECTION_FLIP
+29Z,Las demás enfermedades de la circulación pulmonar y otras enfermedades del corazón,Las demás enfermedades de la circulación pulmonar y otras enfermedades del corazón,29,3294,4487,3.0967,3.5271,0.4304,13.9,3.3361,2.9756,-0.3604,-10.8,up,down,DIRECTION_FLIP
+46E,Hipoxia intrauterina y asfixia  del nacimiento,Hipoxia intrauterina y asfixia  del nacimiento,46,1458,904,1.3707,0.7106,-0.6601,-48.16,1.2783,0.8647,-0.4135,-32.35,down,down,
+33K,Infección aguda no especificada de las vías respiratorias inferiores,Infección aguda no especificada de las vías respiratorias inferiores,33,893,667,0.8395,0.5243,-0.3152,-37.55,0.9046,0.4346,-0.47,-51.96,down,down,
+31A,Aterosclerosis,Aterosclerosis,31,587,190,0.5518,0.1494,-0.4025,-72.94,0.6135,0.11,-0.5035,-82.07,down,down,
+15,Tumores malignos (primarios) de sitios múltiples independientes,Tumores malignos (primarios) de sitios múltiples independientes,15,493,0,0.4635,0.0,-0.4635,-100.0,0.5056,0.0,-0.5056,-100.0,down,down,ZERO_YEAR
+06K,Otras hepatitis virales,Otras hepatitis virales,06,1220,961,1.1469,0.7554,-0.3915,-34.14,1.2211,0.6503,-0.5708,-46.74,down,down,
+35B,Gastritis y duodenitis,Gastritis y duodenitis,35,1015,743,0.9542,0.584,-0.3702,-38.79,1.0488,0.4573,-0.5915,-56.4,down,down,
+09F,Tumor maligno del hígado y de las vías biliares intrahepáticas,Tumor maligno del hígado y de las vías biliares intrahepáticas,09,4858,6869,4.567,5.3995,0.8325,18.23,4.9892,4.394,-0.5952,-11.93,up,down,DIRECTION_FLIP
+06H,Enfermedad por virus de la inmunodeficiencia humana,Enfermedad por virus de la inmunodeficiencia humana,06,4684,5296,4.4035,4.163,-0.2404,-5.46,4.5228,3.8758,-0.647,-14.3,down,down,
+30D,Accidente vascular encefálico agudo no especificado como hemorrágico o isquémico,Accidente vascular encefálico agudo no especificado como hemorrágico o isquémico,30,4854,7110,4.5633,5.5889,1.0257,22.48,5.024,4.3748,-0.6492,-12.92,up,down,DIRECTION_FLIP
+33A,Bronquitis y bronquiolitis agudas,Bronquitis y bronquiolitis agudas,33,974,391,0.9157,0.3074,-0.6083,-66.43,0.9153,0.2657,-0.6497,-70.98,down,down,
+47N,Otras malformaciones congénitas,Otras malformaciones congénitas,47,1698,884,1.5963,0.6949,-0.9014,-56.47,1.4725,0.7928,-0.6797,-46.16,down,down,
+26B,Enfermedades reumáticas crónicas del corazón,Enfermedades reumáticas crónicas del corazón,26,1104,568,1.0379,0.4465,-0.5914,-56.98,1.1252,0.3663,-0.7589,-67.44,down,down,
+22B,Otros trastornos mentales y del comportamiento debidos al uso del alcohol,Otros trastornos mentales y del comportamiento debidos al uso del alcohol,22,861,105,0.8094,0.0825,-0.7269,-89.8,0.8512,0.0715,-0.7798,-91.6,down,down,
+51B,Ahogamiento y sumersión accidentales,Ahogamiento y sumersión accidentales,51,2289,1779,2.1519,1.3984,-0.7535,-35.02,2.1186,1.3267,-0.7919,-37.38,down,down,
+12F,Tumor maligno de la próstata,Tumor maligno de la próstata,12,4814,6907,4.5257,5.4294,0.9037,19.97,4.9847,4.1849,-0.7998,-16.05,up,down,DIRECTION_FLIP
+50,Caídas,Caídas,50,2342,2217,2.2017,1.7427,-0.459,-20.85,2.3306,1.5071,-0.8235,-35.33,down,down,
+02A,Tuberculosis pulmonar,Tuberculosis pulmonar,02,2138,1829,2.0099,1.4377,-0.5722,-28.47,2.1504,1.2481,-0.9023,-41.96,down,down,
+09Z,Los demás tumores malignos de órganos digestivos,Los demás tumores malignos de órganos digestivos,09,2298,2241,2.1604,1.7616,-0.3988,-18.46,2.3706,1.4346,-0.936,-39.48,down,down,
+22C,Síndrome de dependencia del alcohol,Síndrome de dependencia del alcohol,22,2569,2309,2.4151,1.815,-0.6001,-24.85,2.568,1.5648,-1.0032,-39.06,down,down,
+38C,Insuficiencia renal,Insuficiencia renal,38,10270,14604,9.6549,11.4797,1.8248,18.9,10.4635,9.4485,-1.0151,-9.7,up,down,DIRECTION_FLIP
+30C,Infarto cerebral,Infarto cerebral,30,3775,4532,3.5489,3.5625,0.0136,0.38,3.904,2.8118,-1.0922,-27.98,flat,down,
+33E,Asma,Asma,33,1932,1192,1.8163,0.937,-0.8793,-48.41,1.9634,0.7867,-1.1767,-59.93,down,down,
+30B,Hemorragia intraencefálica y otras hemorragias intracraneales no traumáticas,Hemorragia intraencefálica y otras hemorragias intracraneales no traumáticas,30,6427,8311,6.0421,6.533,0.4909,8.13,6.5905,5.3527,-1.2379,-18.78,up,down,DIRECTION_FLIP
+35D,Ulceras gástrica y duodenal,Ulceras gástrica y duodenal,35,2822,2661,2.653,2.0917,-0.5613,-21.16,2.9091,1.6487,-1.2604,-43.33,down,down,
+09B,Tumor maligno del estómago,Tumor maligno del estómago,09,5326,6450,5.007,5.0701,0.0631,1.26,5.4714,4.176,-1.2954,-23.68,flat,down,
+48E,Senilidad,Senilidad,48,3340,3778,3.14,2.9698,-0.1702,-5.42,3.4826,2.13,-1.3527,-38.84,down,down,
+19B,Otras anemias,Otras anemias,19,3545,3459,3.3327,2.719,-0.6137,-18.41,3.5999,2.2004,-1.3996,-38.88,down,down,
+01H,Diarrea y gastroenteritis de presunto origen infeccioso,Diarrea y gastroenteritis de presunto origen infeccioso,01,3851,3165,3.6203,2.4879,-1.1324,-31.28,3.6783,2.1864,-1.4919,-40.56,down,down,
+30F,Secuelas de enfermedad cerebrovascular,Secuelas de enfermedad cerebrovascular,30,4314,4587,4.0556,3.6057,-0.4499,-11.09,4.4842,2.8096,-1.6746,-37.34,down,down,
+30Z,Otras enfermedades cerebrovasculares,Otras enfermedades cerebrovasculares,30,6407,7942,6.0233,6.2429,0.2197,3.65,6.6335,4.9223,-1.7112,-25.8,up,down,DIRECTION_FLIP
+12A,Tumor maligno del cuello del útero,Tumor maligno del cuello del útero,12,4261,3982,4.0058,3.1301,-0.8757,-21.86,4.3854,2.661,-1.7244,-39.32,down,down,
+33G,Enfermedades pulmonares obstructivas crónicas,Enfermedades pulmonares obstructivas crónicas,33,15514,23658,14.5848,18.5968,4.012,27.51,16.085,14.2883,-1.7967,-11.17,up,down,DIRECTION_FLIP
+48Z,"Los demás síntomas, signos y hallazgos anormales no clasificados en otra parte","Los demás síntomas, signos y hallazgos anormales no clasificados en otra parte",48,5205,5179,4.8933,4.071,-0.8222,-16.8,5.1916,3.1792,-2.0124,-38.76,down,down,
+46F,Dificultad respiratoria del recién nacido y otros trastornos respiratorios originados en el período perinatal,Dificultad respiratoria del recién nacido y otros trastornos respiratorios originados en el período perinatal,46,8149,4649,7.6609,3.6544,-4.0065,-52.3,7.1529,4.4407,-2.7122,-37.92,down,down,
+10B,"Tumor maligno de la tráquea, de los bronquios y del pulmón","Tumor maligno de la tráquea, de los bronquios y del pulmón",10,7025,6915,6.6042,5.4357,-1.1686,-17.69,7.2226,4.3958,-2.8267,-39.14,down,down,
+20D,Diabetes mellitus,Diabetes mellitus,20,67381,104191,63.3453,81.9011,18.5558,29.29,69.3925,66.4373,-2.9551,-4.26,up,down,DIRECTION_FLIP
+33D,Bronquitis crónica y la no especificada y enfisema,Bronquitis crónica y la no especificada y enfisema,33,4757,3267,4.4721,2.5681,-1.904,-42.58,4.9299,1.9674,-2.9625,-60.09,down,down,
+28Z,Las demás enfermedades isquémicas del corazón,Las demás enfermedades isquémicas del corazón,28,8453,8422,7.9467,6.6203,-1.3265,-16.69,8.756,5.1934,-3.5626,-40.69,down,down,
+51Z,Los demás accidentes y efectos tardíos,Los demás accidentes y efectos tardíos,51,11149,10338,10.4812,8.1264,-2.3549,-22.47,10.7377,7.1401,-3.5976,-33.5,down,down,
+35L,Enfermedad alcohólica del hígado,Enfermedad alcohólica del hígado,35,13816,14389,12.9885,11.3107,-1.6778,-12.92,13.927,9.7433,-4.1837,-30.04,down,down,
+29D,Insuficiencia cardíaca,Insuficiencia cardíaca,29,7776,6056,7.3103,4.7604,-2.5498,-34.88,8.028,3.7025,-4.3255,-53.88,down,down,
+21C,Otras desnutriciones proteinocalóricas,Otras desnutriciones proteinocalóricas,21,8379,6534,7.8772,5.1362,-2.741,-34.8,8.4987,4.0252,-4.4735,-52.64,down,down,
+49B,Accidentes de tráfico de vehículos de motor,Accidentes de tráfico de vehículos de motor,49,16055,14645,15.0934,11.5119,-3.5815,-23.73,15.4258,10.722,-4.7039,-30.49,down,down,

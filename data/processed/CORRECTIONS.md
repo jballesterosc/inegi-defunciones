@@ -31,6 +31,17 @@ row. The 2020 catalog is sorted ascending by `CVE`, so the row was inserted in
 its sorted position (index 72, i.e. the 73rd row) between `06S` and `06Z`. The
 other 418 rows are unchanged and in their original order.
 
+**Label verified:**
+- Every INEGI `listamex` catalog from 2021 to 2024 uses exactly `COVID-19`
+  for `06T`.
+- In the 2020 microdata, the 200,270 rows with `LISTA_MEX == '06T'` carry
+  `CAUSA_DEF` U071 (146,848, "COVID-19, virus identified"), U072 (53,415,
+  "COVID-19, virus not identified"), and U109 (7, MIS associated with
+  COVID-19) — the WHO emergency ICD-10 codes for COVID-19, and nothing else.
+- 200,263 of the ~200,270 U071/U072 deaths map to `06T` (near 1:1).
+- The total matches INEGI's published finding that COVID-19 was the 2nd
+  leading cause of death in Mexico in 2020.
+
 Row count: **418 -> 419**.
 
 **How:** written with `pyarrow` 25.0.1, `pq.write_table(..., compression="zstd")`

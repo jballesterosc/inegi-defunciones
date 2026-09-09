@@ -71,6 +71,29 @@ Rough scale: ~550 MB of zips for 1990–2024; ~800k–1M rows per recent year.
 Parquet (zstd) is ~15–20 MB/year, CSV ~230 MB/year. INEGI's server is slow
 (~300 KB/s), so a full 20-year download takes a while — it is resumable.
 
+### Disposable vs. keep
+
+- **`data/interim/` is disposable.** It holds only the DBFs (and descriptor
+  PDFs) unzipped from `data/raw/`; for 2005–2024 that is ~1.9 GB. Delete it any
+  time to reclaim space — it is `.gitignore`d and is never committed.
+
+  Rebuild it from the zips already in `data/raw/`, without re-downloading and
+  without touching the Parquet in `data/processed/`:
+
+  ```bash
+  inegi-defunciones run        # zips present -> no download; parquet present -> no re-convert;
+                               # just re-extracts data/interim/ and rewrites manifest.json
+  ```
+
+  (`download_file` skips any zip that already exists; `convert_dbf` skips any
+  Parquet that already exists. Add `--force` only if you want them rebuilt.)
+
+- **`data/raw/*.zip` must never be deleted.** Those eight archives are the only
+  copy of the source: the INEGI datos-abiertos URLs in `manifest.json` are the
+  single upstream, no mirror is known, and a dead URL cannot be assumed to come
+  back. `manifest.json` records each URL + SHA-256 for verification, not as a
+  fallback. Deleting a zip loses that vintage of the microdata.
+
 ### Options
 
 | Flag | Meaning |
